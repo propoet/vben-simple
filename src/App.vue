@@ -1,5 +1,10 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+</script>
 
-<template>hello World</template>
+<template>
+  <div>
+    hello World
+  </div>
+</template>
 
 <style scoped></style>
