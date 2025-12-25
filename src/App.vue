@@ -1,4 +1,5 @@
 <script setup lang="ts">
+console.log('port', import.meta.env.VITE_PORT)
 </script>
 
 <template>
